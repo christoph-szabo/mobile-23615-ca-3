@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RecyclerViewSharedPrefs</string>
+    <string name="MainActivityLaunchMessage">Main Activity Has Started</string>
+
+    <string name="LOGGING_TAG">MainActivity</string>
+    <string name="HelloWorld">Hello World from a resource!</string>
+    <string name="load_prefs">Load Prefs</string>
+    <string name="ButtonClicked">Button has been clicked</string>
+    <string name="ToDoItemStrings">ToDoItemStrings</string>
+    <string name="PrefsPackage">com.aaademo.sharedprefs02.dorset</string>
+    <string name="SampleItem">Sample To Item :</string>
+    <string name="SAVED_MESSAGE">Preferences are saved</string>
+    <string name="enter_task_description">Enter task description</string>
+    <string name="enter_task_name">Enter task name</string>
+    <string name="clear">Clear</string>
+    <string name="add">Add</string>
+    <string name="load_preferences">Load Preferences</string>
+    <string name="set_preferences">Set Preferences</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+</resources>
